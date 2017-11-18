@@ -32,7 +32,7 @@
 		 <img class="roompic" src="images/image5.jpg"> </img>
 		 <span class="roomtype"><u>Deluxe Room</u></span>
 		 <span class="room_details">Deluxe Rooms<br>
-					<li> Pouyttwewrerewou eurowieweori</li>
+					<li> Pouyttwewrerewou eurowieweoi</li>
 					<br><li> sdjhdjkwhejfhefjhwefjkhwefjk</li>
 					<br><li> sdjhdjkwhejfhefjhwefjkhwefjk</li>
 					<br><li> Price: 1,200 PHP</li>

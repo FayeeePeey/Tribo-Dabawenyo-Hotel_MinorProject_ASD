@@ -33,7 +33,7 @@
 		 <span class="roomtype"><u>Suite Room</u></span>
 		 <span class="room_details">Suite Rooms<br>
 					<li> Pouyttwewrerewou eurowieweori</li>
-					<br><li> sdjhdjkwhejfhefjhwefjkhwefjk</li>
+					<br><li> sdjhdjkwhejfhefjhwefjhwefjk</li>
 					<br><li> sdjhdjkwhejfhefjhwefjkhwefjk</li>
 					<br><li> Price: 1,200 PHP</li>
 					</span>

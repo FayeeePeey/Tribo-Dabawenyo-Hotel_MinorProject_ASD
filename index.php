@@ -2,7 +2,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="css/index.css">
 		<link rel="shortcut icon" href="images/logo.jpg" />
-        <title>PHP SAMPLE</title>
+        <title>Tribo Dabawenyo</title>
     </head>
 	
     <body>

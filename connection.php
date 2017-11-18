@@ -1,7 +1,7 @@
 <?php
 	$server="localhost";
-	$unm="root";
+	$uname="root";
 	$pwd="";
 	$db="hotel_davao";
-	$con=mysqli_connect($server,$unm,$pwd,$db);
+	$con=mysqli_connect($server,$uname,$pwd,$db);
 ?>

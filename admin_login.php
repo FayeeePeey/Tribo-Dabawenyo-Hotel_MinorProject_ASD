@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            bullshit;
+            bullshits;
         ?>
     </body>
 </html>

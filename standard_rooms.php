@@ -55,7 +55,7 @@ if(mysqli_connect_errno()) {
 					</span>
 		 <span>
             <form method="post" action="standard_rooms.php">
-                <div class="signup_text">Enter Your Personal Details</div>
+                <div class="signup_text">Enter Your Personal Detail</div>
                 <div class="signup_con">
 				    <span class="checkin"><b>Check In:</b><input type="date" name="checkin" ></span>
 					<span class="checkout"><b>Check Out:</b><input type="date" name="checkout" ></span>
